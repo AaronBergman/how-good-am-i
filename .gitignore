@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
+claude_code/
+claude_convos/
+.remember/
